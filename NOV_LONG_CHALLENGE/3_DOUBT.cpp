@@ -1,0 +1,1 @@
+// Always use iterators for map ans similar other data structures
